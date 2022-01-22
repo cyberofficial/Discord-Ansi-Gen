@@ -1,0 +1,17 @@
+C:\Users\cyberofficial\source\repos\Discord Ansi Gen\bin\Debug\net6.0-windows\Discord Ansi Gen.exe
+C:\Users\cyberofficial\source\repos\Discord Ansi Gen\bin\Debug\net6.0-windows\Discord Ansi Gen.deps.json
+C:\Users\cyberofficial\source\repos\Discord Ansi Gen\bin\Debug\net6.0-windows\Discord Ansi Gen.runtimeconfig.json
+C:\Users\cyberofficial\source\repos\Discord Ansi Gen\bin\Debug\net6.0-windows\Discord Ansi Gen.dll
+C:\Users\cyberofficial\source\repos\Discord Ansi Gen\bin\Debug\net6.0-windows\ref\Discord Ansi Gen.dll
+C:\Users\cyberofficial\source\repos\Discord Ansi Gen\bin\Debug\net6.0-windows\Discord Ansi Gen.pdb
+C:\Users\cyberofficial\source\repos\Discord Ansi Gen\obj\Debug\net6.0-windows\Discord Ansi Gen.vbproj.AssemblyReference.cache
+C:\Users\cyberofficial\source\repos\Discord Ansi Gen\obj\Debug\net6.0-windows\Discord_Ansi_Gen.Form1.resources
+C:\Users\cyberofficial\source\repos\Discord Ansi Gen\obj\Debug\net6.0-windows\Discord Ansi Gen.vbproj.GenerateResource.cache
+C:\Users\cyberofficial\source\repos\Discord Ansi Gen\obj\Debug\net6.0-windows\Discord Ansi Gen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cyberofficial\source\repos\Discord Ansi Gen\obj\Debug\net6.0-windows\Discord Ansi Gen.AssemblyInfoInputs.cache
+C:\Users\cyberofficial\source\repos\Discord Ansi Gen\obj\Debug\net6.0-windows\Discord Ansi Gen.AssemblyInfo.vb
+C:\Users\cyberofficial\source\repos\Discord Ansi Gen\obj\Debug\net6.0-windows\Discord Ansi Gen.vbproj.CoreCompileInputs.cache
+C:\Users\cyberofficial\source\repos\Discord Ansi Gen\obj\Debug\net6.0-windows\Discord Ansi Gen.dll
+C:\Users\cyberofficial\source\repos\Discord Ansi Gen\obj\Debug\net6.0-windows\ref\Discord Ansi Gen.dll
+C:\Users\cyberofficial\source\repos\Discord Ansi Gen\obj\Debug\net6.0-windows\Discord Ansi Gen.pdb
+C:\Users\cyberofficial\source\repos\Discord Ansi Gen\obj\Debug\net6.0-windows\Discord Ansi Gen.genruntimeconfig.cache

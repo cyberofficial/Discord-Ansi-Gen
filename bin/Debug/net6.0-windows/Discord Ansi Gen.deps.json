@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Discord Ansi Gen/1.0.0": {
+        "runtime": {
+          "Discord Ansi Gen.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Discord Ansi Gen/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
